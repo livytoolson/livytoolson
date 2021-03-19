@@ -7,8 +7,6 @@
 <strong>Hi! I'm Livy!</strong> I'm a Full Stack Web Developer with a passion for design.
 </p>
 
-Here are some ideas to get you started:
-
 🌱 I’m currently working on:
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
 - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
