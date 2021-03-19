@@ -7,6 +7,8 @@
   <em><strong>Hi! I'm Livy!</strong></em> I recently completed the Full Stack Web Development track at Lambda School and have a passion for design.
 </p>
 
+<img align="right" alt="img" src="" width="50%" height="auto" />
+
 🌱 I’m currently working on:
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
 - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
