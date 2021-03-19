@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/livytoolson/)
 
 <p>
-<strong>Hi! I'm Livy!</strong> I'm a Full Stack Web Developer with a passion for design.
+  <em><strong>Hi! I'm Livy!</strong></em> I'm a Full Stack Web Developer with a passion for design.
 </p>
 
 🌱 I’m currently working on:
