@@ -11,9 +11,9 @@
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
 - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
 
-🛠 Programming Languages & Tools
+💻 Programming Languages & Tools
 - ⌨️ Python 
-- Node | Express Framework
+- 🛠 Node | Express Framework
 - 🌐 JavaScript | React | Redux | HTML | CSS | Styled-Components | Bootstrap | Ant Design
 - 🛢 PostgreSQL | SQLite3
 - 🌎 Heroku | Vercel | Netlify
