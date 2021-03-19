@@ -9,8 +9,6 @@
 
 <img align="right" alt="img" src="OLIVIA.png" width="40%" height="auto" />
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=livytoolson&show_icons=true&hide_border=true" />
-
 ### 🌱 I’m currently working on:
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
 - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
@@ -26,6 +24,8 @@
 - ⚙️ Git | GitHub 
 - 🔧 VS Code | Postman
 - 🖥 Whimsical | Figma
+
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=livytoolson&show_icons=true&hide_border=true" />
 
 </p>
 
