@@ -7,7 +7,7 @@
   <em><strong>Hi! I'm Livy!</strong></em> I recently completed the Full Stack Web Development track at Lambda School and have a passion for design.
 </p>
 
-<img align="right" alt="img" src="OLIVIA.png" width="40%" height="auto" />
+<img align="right" alt="img" src="OLIVIA.png" width="50%" height="auto" />
 
 #### 🌱 I’m currently working on:
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
@@ -15,7 +15,7 @@
 
 #### 💻 Programming Languages & Tools:
 <p>
-        <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=livytoolson&show_icons=true&hide_border=true" />
+        <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=livytoolson&show_icons=true&hide_border=true" />
   
   <h3>🛠️ Tech Stack:</h3>
   
