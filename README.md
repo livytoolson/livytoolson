@@ -13,6 +13,8 @@
 - Working with a team to build an education game for kids in elementary school. <a href="https://www.storysquad.education/">Story Squad</a>
 - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=livytoolson&show_icons=true&hide_border=true" />
+
 ### 💻 Programming Languages & Tools:
 - ⌨️ Python 
 - 🛠 Node | Express Framework
