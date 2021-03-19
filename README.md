@@ -1,8 +1,5 @@
 ### Hi there, nice to meet you!
 
-<!--
-**livytoolson/livytoolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/livytoolson)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/livytoolson/)
 
@@ -25,3 +22,5 @@ Here are some ideas to get you started:
 - Git | GitHub 
 - VS Code
 - Whimsical | Figma
+
+---
