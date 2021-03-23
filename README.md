@@ -29,5 +29,3 @@
 - 🖥 Whimsical | Figma
 
 </p>
-
----
