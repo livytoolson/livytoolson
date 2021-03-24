@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/livytoolson/)
 
 <p>
-  <em><strong>Hi! I'm Livy!</strong></em> I recently completed the Full Stack Web Development track at Lambda School and have a passion for design.
+  <em><strong>Hi! I'm Olivia (but mostly everyone calls me Livy)!</strong></em> I recently completed the Full Stack Web Development track at Lambda School and have a passion for design.
 </p>
 
 <img align="right" alt="img" src="OLIVIA.png" width="50%" height="auto" />
